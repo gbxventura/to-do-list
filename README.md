@@ -1,4 +1,4 @@
-﻿# To do list 👨‍💻
+﻿# To do list 👨‍💻 [EM CONSTRUÇÃO]
 
 Este projeto tem como objetivo desenvolver um gerador de To do list.
 
